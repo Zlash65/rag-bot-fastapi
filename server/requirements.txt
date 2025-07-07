@@ -9,3 +9,4 @@ pypdf
 python-dotenv
 python-multipart
 aiofiles
+tiktoken
